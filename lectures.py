@@ -4,9 +4,9 @@
 #thing()
 #print('Zip')
 #thing()
-big = max('yalisaleman')
+big = max('datayalis')
 print(big)
-tiny= min('yalisaleman')
+tiny= min('datayalis')
 print(tiny)
 
 #Type convestions
